@@ -1,0 +1,13 @@
+Data analytic results:
+
+Avg inc. for Females: $28646.318233333328
+Avg inc. for Males: $27225.827199999996
+
+Num.of Females with Mortage & saving act: 71
+
+INNER_CITY males with car & 1 child: 15
+RURAL males with car & 1 child: 9
+SUBURBAN males with car & 1 child: 3
+TOWN males with car & 1 child: 7
+Zhenglin Jin
+Mon Mar 21 17:28:56 CST 2022
